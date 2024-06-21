@@ -20,7 +20,7 @@ function App() {
       <Projects/>
       {/* <Resume/> */}
       <Services/>
-      <Contact />
+      {/* <Contact /> */}
       {/* <Footer /> */}
     </div>
   );
