@@ -16,10 +16,10 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
-      <About/>
       <Projects/>
       {/* <Resume/> */}
       <Services/>
+      <About/>
       {/* <Contact /> */}
       {/* <Footer /> */}
     </div>
